@@ -1,0 +1,7 @@
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\bin\Debug\BankApp.exe
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\bin\Debug\BankApp.pdb
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\obj\Debug\BankApp.exe
+C:\Users\tayo\Documents\GitHub\BankApp2018\BankApp\obj\Debug\BankApp.pdb
